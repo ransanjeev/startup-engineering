@@ -2,8 +2,3 @@
 // Example of using market-research.js as a module
 var mr = require('./market-research.js');
 mr.marketResearch(["FB", "ORCL"]);
-
-
-function foo(name){
-    console.log("this is the dummy function");
-}
